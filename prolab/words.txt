@@ -1,0 +1,13 @@
+1       Emin    Kaya    1946-07-02      Sena Kaya       Ayşe    Mehmet  0(-)    Marangoz        Evli    null    Erkek
+2       Sena    Kaya    1949-01-26      Emin Kaya       Hatice  Ali     A(-)    Ev Hanımı       Evli    Çetin   Kadın
+3       Nazlı   Demir   1969-02-21      Uğur Demir      Sena    Emin    A(-)    Ev Hanımı       Evli    Kaya    Kadın
+4       Mehmet  Kaya    1971-04-14      Zeynep  Kılıç   Sena    Emin    0(-)    Marangoz        Evli    null    Erkek
+5       Mustafa Kaya    1973-08-04      Elif    Sena    Emin    0(-)    Marangoz        Evli    null    Erkek
+6       Defne   Çelik   1993-07-08      Ahmet Çelik     Nazlı   Uğur    AB(+)   Mühendis        Evli    Demir   Kadın
+7       Ömer    Demir   1995-04-19      Eda     Nazlı   Uğur    A(+)    Doktor  Evli    null    Erkek
+8       Emin    Kaya    2000-02-02      null    Zeynep  Mehmet  0(+)    Marangoz        Bekar   null    Erkek
+9       Hatice  Kaya    2003-09-17      null    Zeynep  Mehmet  A(+)    Öğrenci Bekar   null    Kadın
+10      Emre    Kaya    2006-04-05      null    Zeynep  Mehmet  0(+)    Öğrenci Bekar   null    Erkek
+11      Alper   Kaya    2004-10-10      null    Elif    Mustafa 0(-)    Öğrenci Bekar   null    Erkek
+12      İrem    Çelik   2009-09-09      null    Defne   Ahmet   A(+)    Öğrenci Bekar   null    Kadın
+13      Ali     Demir   2021-08-06      null    Eda     Ömer    0(+)    null    Bekar   null    Erkek   null

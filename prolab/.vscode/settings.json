@@ -1,0 +1,17 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "c:\\Users\\ahmet\\Desktop\\prolab3\\javalibrary\\poi-3.17.jar",
+            "c:\\Users\\ahmet\\Desktop\\prolab3\\javalibrary\\poi-ooxml-3.17.jar",
+            "c:\\Users\\ahmet\\Desktop\\prolab3\\javalibrary\\poi-ooxml-schemas-3.17.jar",
+            "c:\\Users\\ahmet\\Desktop\\prolab3\\javalibrary\\xmlbeans-2.6.0.jar",
+            "c:\\Users\\ahmet\\Desktop\\prolab3\\javalibrary\\commons-collections4-4.1.jar"
+        ],
+        "exclude": [
+            "c:\\Users\\ahmet\\Desktop\\jexcelapi_2_6_12\\jexcelapi\\jxl.jar"
+        ]
+    }
+}
